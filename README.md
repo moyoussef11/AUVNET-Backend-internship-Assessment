@@ -39,8 +39,6 @@ src/
 ├── routes/             # Route definitions & middleware
 ├── middlewares/        # Authentication, authorization, error handling
 ├── utils/              # Helpers for pagination, validation, etc.
-├── config/             # DB connection, environment variables
-├── diagrams/           # ERD file (e.g., .png, .svg)
 └── server.js           # App entry point
 
 ##  Installation & Running
